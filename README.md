@@ -1,5 +1,5 @@
-TypeScript Base Demo
-====================
+TypeScript New Anonymous Object Implements Interface Demo
+=========================================================
 
 ```
 npm install
